@@ -1,5 +1,10 @@
 <template>
-    <div>test</div>
+    <div>
+        <van-button type="primary">
+            主要按钮
+        </van-button>
+        test
+    </div>
 </template>
 <script>
 export default {
